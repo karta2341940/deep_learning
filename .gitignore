@@ -1,0 +1,7 @@
+*.png
+train/*
+test/*
+昇哥/*
+validation/*
+*.zip
+result/*
