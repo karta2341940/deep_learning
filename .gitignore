@@ -1,7 +1,4 @@
-*.png
-train/*
-test/*
-昇哥/*
-validation/*
+bad/
+good/
 *.zip
 result/*
