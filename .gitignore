@@ -1,4 +1,4 @@
-bad/
-good/
+**/bad/
+**/good/
 *.zip
 result/*
